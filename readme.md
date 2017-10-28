@@ -43,7 +43,7 @@ Pull requests are welcome. Thank you. 💙
 ### [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack)
 - allows you to quicky open any GitHub repository to view in a more powerful [Sourcegraph editor](https://about.sourcegraph.com/)
 
-###[Stylish](https://userstyles.org/) 
+### [Stylish](https://userstyles.org/) 
 - lets you customise websites to any colour scheme you like with a lot of styles that you can already choose from
 
 ### [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
