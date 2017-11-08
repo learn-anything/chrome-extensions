@@ -5,7 +5,6 @@ This is a curated list of all the interesting Chrome extensions.
 Pull requests are welcome. Thank you. 💜
 
 ## Related websites / repositories 
-- [Safari extensions gallery](https://safari-extensions.apple.com)
 - [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 
 ## Chrome Extensions 
