@@ -9,13 +9,13 @@ Pull requests are welcome. Thank you. 💜
 
 ## Chrome Extensions 
 ### [Chrome Dev Tools Dark Theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme)
-- simply adds night theme to Chrome dev tools
+- Simply adds night theme to Chrome dev tools
 
 ### [1Password](https://agilebits.com/onepassword/extensions)
-- chrome extension for the amazing [1Password app](https://1password.com/)
+- Chrome extension for the amazing [1Password app](https://1password.com/)
 
 ### [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-- probably the best adblocker for chrome there is
+- Probably the best adblocker for chrome there is
 
 ### [Empty New Tab Page ](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij)
 - simple extension to change new tab to open empty page instead of default top sites
@@ -53,10 +53,13 @@ Pull requests are welcome. Thank you. 💜
 	- navigating pages with hjkl, clicking on links from your keyboard and a lot more
 
 ### [Wappalyzer](https://wappalyzer.com/)
-- can identify the technologies that were used to build a particular website you are viewing
+- Can identify the technologies that were used to build a particular website you are viewing
 
 ### [Wikiwand](https://www.wikiwand.com/)
 - Wiki UI refinement (less noise and focus on content + night mode)
+
+### [Saka](https://saka.io/)
+- Fuzzy search through active Chrome tabs.
 
 ## Contribute 
 If you found a chrome extension that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
