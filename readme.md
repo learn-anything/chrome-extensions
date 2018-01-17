@@ -1,18 +1,7 @@
 # Interesting Chrome Extensions [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-This is a curated list of all the interesting Chrome extensions.
-
-Pull requests are welcome. Thank you. 💜
-
-## Related websites / repositories 
-- [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-
-## Chrome Extensions 
-### [Chrome Dev Tools Dark Theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme)
-- Simply adds night theme to Chrome dev tools
-
-### [1Password](https://agilebits.com/onepassword/extensions)
-- Chrome extension for the amazing [1Password app](https://1password.com/)
+- [Chrome Dev Tools Dark Theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Simply adds night theme to Chrome dev tools.
+- [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/).
 
 ### [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - Probably the best adblocker for chrome there is
@@ -61,5 +50,5 @@ Pull requests are welcome. Thank you. 💜
 ### [Saka](https://saka.io/)
 - Fuzzy search through active Chrome tabs.
 
-## Contribute 
-If you found a chrome extension that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
+## Related
+- [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
