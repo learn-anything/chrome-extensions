@@ -25,6 +25,9 @@
 ## Related
 - [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 
+## More lists 📝
+For more lists like this, see [here](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists).
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
