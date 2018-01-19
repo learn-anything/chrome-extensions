@@ -16,6 +16,7 @@
 
 ## Developer
 - [JSON formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
+- [Octotree](https://github.com/buunguyen/octotree) - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 - [Chrome Dev Tools Dark Theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Simply adds night theme to Chrome dev tools.
 - [OctoLinker](https://octolinker.github.io/) - Lets you navigate through projects on GitHub by making references in code clickable.
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) -Adds React debugging tools to Chrome Dev tools.
