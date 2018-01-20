@@ -22,7 +22,7 @@
 - [OctoLinker](https://octolinker.github.io/) - Lets you navigate through projects on GitHub by making references in code clickable.
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to Chrome Dev tools.
 - [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) - Adds debugging for Redux to Chrome Dev tools.
-- [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack) - Allows you to quicky open any GitHub repository to view in a more powerful [Sourcegraph editor](https://about.sourcegraph.com/)
+- [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack) - Allows you to quicky open any GitHub repository to view in a more powerful [Sourcegraph editor](https://about.sourcegraph.com/).
 
 ## Related
 - [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
