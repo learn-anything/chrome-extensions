@@ -15,6 +15,7 @@
 - [Wikiwand](https://www.wikiwand.com/) - Wiki UI refinement (less noise and focus on content + night mode).
 
 ## Developer
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies the GitHub interface and adds useful features.
 - [JSON formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
 - [Octotree](https://github.com/buunguyen/octotree) - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 - [Chrome Dev Tools Dark Theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Simply adds night theme to Chrome dev tools.
