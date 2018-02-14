@@ -8,7 +8,7 @@
 - [Empty New Tab Page ](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij) - Simple extension to change new tab to open empty page instead of default top sites. If you found default new tab page too cluttered and of no use.
 - [HTTPS everywhere](https://www.eff.org/https-everywhere) - Encrypts you communication with many major websites thus making browsing more secure.
 - [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb) - Lets you quickly switch between current and recently closed chrome tabs.
-- [Stylish](https://userstyles.org/) - Lets you customise websites to any colour scheme you like with a lot of styles that you can already choose from.
+- [Stylus](https://github.com/openstyles/stylus/) - Lets you customise websites to any colour scheme you like with a lot of styles that you can already choose from.
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Is used to run userscropts which are a little computer programs that can add various elements to extend web pages.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Adds powerful vim keybindings to Chrome. Navigating pages with hjkl, clicking on links from your keyboard and a lot more.
 - [Wappalyzer](https://wappalyzer.com/) - Can identify the technologies that were used to build a particular website you are viewing.
