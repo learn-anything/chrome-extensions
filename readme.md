@@ -1,5 +1,5 @@
 # Interesting Chrome Extensions [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#contribution-guidelines#readme) before contributing.*
+*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
 ## General
 - [Saka](https://saka.io/) - Fuzzy search through active Chrome tabs.
