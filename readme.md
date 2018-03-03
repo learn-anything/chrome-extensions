@@ -15,6 +15,7 @@
 - [Wikiwand](https://www.wikiwand.com/) - Wiki UI refinement (less noise and focus on content + night mode).
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
 - [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Includes many features that enhances your Reddit browsing experience.
+- [Decentraleyes](https://github.com/Synzvato/decentraleyes) - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)).
 
 ## Developer
 - [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies the GitHub interface and adds useful features.
