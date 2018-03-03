@@ -14,6 +14,7 @@
 - [Wappalyzer](https://wappalyzer.com/) - Can identify the technologies that were used to build a particular website you are viewing.
 - [Wikiwand](https://www.wikiwand.com/) - Wiki UI refinement (less noise and focus on content + night mode).
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
+- [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Includes many features that enhances your Reddit browsing experience.
 
 ## Developer
 - [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies the GitHub interface and adds useful features.
