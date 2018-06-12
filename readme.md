@@ -11,6 +11,7 @@
 - [Stylus](https://github.com/openstyles/stylus/) - Lets you customise websites to any colour scheme you like with a lot of styles that you can already choose from.
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Is used to run userscropts which are a little computer programs that can add various elements to extend web pages.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Adds powerful vim keybindings to Chrome. Navigating pages with hjkl, clicking on links from your keyboard and a lot more.
+- [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh?hl=en) - Vim-like bindings.
 - [Wappalyzer](https://wappalyzer.com/) - Can identify the technologies that were used to build a particular website you are viewing.
 - [Wikiwand](https://www.wikiwand.com/) - Wiki UI refinement (less noise and focus on content + night mode).
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
