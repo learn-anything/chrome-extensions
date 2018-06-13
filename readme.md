@@ -5,7 +5,8 @@
 - [Saka](https://saka.io/) - Fuzzy search through active Chrome tabs.
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Probably the best adblocker for chrome there is.
 - [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/).
-- [Empty New Tab Page ](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij) - Simple extension to change new tab to open empty page instead of default top sites. If you found default new tab page too cluttered and of no use.
+- [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij) - Change new tab to open empty page instead of default top sites.
+- [Empty New Tab Page (Black)](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp) - Change new tab to open empty black page instead of default top sites.
 - [HTTPS everywhere](https://www.eff.org/https-everywhere) - Encrypts you communication with many major websites thus making browsing more secure.
 - [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb) - Lets you quickly switch between current and recently closed chrome tabs.
 - [Stylus](https://github.com/openstyles/stylus/) - Lets you customise websites to any colour scheme you like with a lot of styles that you can already choose from.
