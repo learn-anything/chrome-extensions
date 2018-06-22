@@ -32,8 +32,13 @@
 - [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
 - [Close Inactive Tabs](https://chrome.google.com/webstore/detail/close-inactive-tabs/ljigdlkhdinjbdmhdfmoglfcegnnkill) - Close inactive tabs in the current window.
 - [1Password extension](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) - Extends the 1Password app.
+<<<<<<< HEAD
 - [Dark Reader] (https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 - Enables Dark Mode on websites like Facebook, Medium, Twitter, Google Maps and Github.
+||||||| merged common ancestors
+=======
+- [Tabb](http://tabb-extension.com/) - Search, save, and manage your tabs, history, and bookmarks.
+>>>>>>> add extension
 
 ## Developer
 - [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies the GitHub interface and adds useful features.
