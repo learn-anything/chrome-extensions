@@ -9,8 +9,8 @@
 - [Empty New Tab Page (Black)](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp) - Change new tab to open empty black page instead of default top sites.
 - [HTTPS everywhere](https://www.eff.org/https-everywhere) - Encrypts you communication with many major websites thus making browsing more secure.
 - [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb) - Lets you quickly switch between current and recently closed chrome tabs.
-- [Stylus](https://github.com/openstyles/stylus/) - Lets you customise websites to any colour scheme you like with a lot of styles that you can already choose from.
-- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Is used to run userscropts which are a little computer programs that can add various elements to extend web pages.
+- [Stylus](https://github.com/openstyles/stylus/) - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Is used to run userscripts which are a little computer programs that can add various elements to extend web pages.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Adds powerful vim keybindings to Chrome. Navigating pages with hjkl, clicking on links from your keyboard and a lot more.
 - [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh?hl=en) - Vim-like bindings.
 - [Wappalyzer](https://wappalyzer.com/) - Can identify the technologies that were used to build a particular website you are viewing.
@@ -32,13 +32,8 @@
 - [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
 - [Close Inactive Tabs](https://chrome.google.com/webstore/detail/close-inactive-tabs/ljigdlkhdinjbdmhdfmoglfcegnnkill) - Close inactive tabs in the current window.
 - [1Password extension](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) - Extends the 1Password app.
-<<<<<<< HEAD
-- [Dark Reader] (https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
-- Enables Dark Mode on websites like Facebook, Medium, Twitter, Google Maps and Github.
-||||||| merged common ancestors
-=======
+- [Dark Reader] (https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Enables Dark Mode on websites like Facebook, Medium, Twitter, Google Maps and GitHub.
 - [Tabb](http://tabb-extension.com/) - Search, save, and manage your tabs, history, and bookmarks.
->>>>>>> add extension
 
 ## Developer
 - [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies the GitHub interface and adds useful features.
