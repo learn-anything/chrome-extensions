@@ -32,7 +32,7 @@
 - [1Password extension](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) - Extends the 1Password app.
 - [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/).
 - [Close Inactive Tabs](https://chrome.google.com/webstore/detail/close-inactive-tabs/ljigdlkhdinjbdmhdfmoglfcegnnkill) - Close inactive tabs in the current window.
-- [Dark Reader] (https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Enables Dark Mode on websites like Facebook, Medium, Twitter, Google Maps and GitHub.
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Enables Dark Mode on websites like Facebook, Medium, Twitter, Google Maps and GitHub.
 - [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
 - [Decentraleyes](https://github.com/Synzvato/decentraleyes) - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)).
 - [Empty New Tab Page (Black)](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp) - Change new tab to open empty black page instead of default top sites.
@@ -64,5 +64,5 @@
 
 ---
 
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
