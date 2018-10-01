@@ -51,7 +51,6 @@
 - [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Suite of modules that enhance your Reddit browsing experience.
 - [Saka](https://saka.io/) - Fuzzy search through active Chrome tabs.
 - [Sight](https://chrome.google.com/webstore/detail/sight/epmaefhielclhlnmjofcdapbeepkmggh) - Syntax Highlighter.
-- [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) - Custom themes for any website.
 - [Stylus](https://github.com/openstyles/stylus/) - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
 - [Tabb](http://tabb-extension.com/) - Search, save, and manage your tabs, history, and bookmarks.
 - [Tabs Backup & Restore](https://chrome.google.com/webstore/detail/tabs-backup-restore/dehocbglhkaogiljpihicakmlockmlgd) - Backup an entire Chrome session (windows and tabs).
