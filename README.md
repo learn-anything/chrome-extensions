@@ -37,14 +37,15 @@
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Enables Dark Mode on websites like Facebook, Medium, Twitter, Google Maps and GitHub.
 - [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
 - [Decentraleyes](https://github.com/Synzvato/decentraleyes) - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)).
+- [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh?hl=en) - Vim-like bindings.
 - [Empty New Tab Page (Black)](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp) - Change new tab to open empty black page instead of default top sites.
 - [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij) - Change new tab to open empty page instead of default top sites.
 - [Enhanced Steam](https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg) - Adds many new features to the Steam website.
 - [Figma Figjets Panel](https://chrome.google.com/webstore/detail/figma-figjets-panel/diljoblapaochhcgfonabkjihknfmllk) - Plugins Panel for Figma.
 - [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) - Get things done offline with the Google Docs family of products.
 - [Google Search Navigator](https://chrome.google.com/webstore/detail/google-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek) - Adds keyboard shortcuts to Google Search.
-- [HTTPS everywhere](https://www.eff.org/https-everywhere) - Encrypts you communication with many major websites thus making browsing more secure.
 - [Hckr news](https://chrome.google.com/webstore/detail/hckr-news/mnlaodleonmmfkdhfofamacceeikgecp) - Adds a few features to both Hacker News and Hckr news.
+- [HTTPS everywhere](https://www.eff.org/https-everywhere) - Encrypts you communication with many major websites thus making browsing more secure.
 - [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - Open, copy or bookmark multiple links at the same time.
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter.
 - [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb) - Lets you quickly switch between current and recently closed chrome tabs.
@@ -56,12 +57,11 @@
 - [Tabb](http://tabb-extension.com/) - Search, save, and manage your tabs, history, and bookmarks.
 - [Tabs Backup & Restore](https://chrome.google.com/webstore/detail/tabs-backup-restore/dehocbglhkaogiljpihicakmlockmlgd) - Backup an entire Chrome session (windows and tabs).
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Is used to run userscripts which are a little computer programs that can add various elements to extend web pages.
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Probably the best adblocker for chrome there is.
+- [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Adds powerful vim keybindings to Chrome. Navigating pages with hjkl, clicking on links from your keyboard and a lot more.
 - [Wappalyzer](https://wappalyzer.com/) - Can identify the technologies that were used to build a particular website you are viewing.
 - [Wikiwand](https://www.wikiwand.com/) - Wiki UI refinement (less noise and focus on content + night mode).
-- [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh?hl=en) - Vim-like bindings.
-- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Probably the best adblocker for chrome there is.
-- [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
 
 ---
 
