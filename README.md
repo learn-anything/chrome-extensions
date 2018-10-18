@@ -27,7 +27,7 @@
 - [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies the GitHub interface and adds useful features.
 - [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack) - Allows you to quicky open any GitHub repository to view in a more powerful [Sourcegraph editor](https://about.sourcegraph.com/).
 - [Vuejs Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Adds Vuejs debugging tools to Chrome Dev tools.
-- [What's New on GitHub](https://chrome.google.com/webstore/detail/whats-new-on-github/ldleapnlgbkpkabhbkkeangmnfpikahe) - Helps you see which activities happened since you last visited GitHub, and which one you've already seen.
+- [What's New on GitHub](https://github.com/flawyte/whats-new-github) - Helps you see which activities happened since you last visited GitHub, and which one you've already seen.
 
 ## General
 
