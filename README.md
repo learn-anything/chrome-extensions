@@ -29,6 +29,7 @@
 - [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack) - Allows you to quicky open any GitHub repository to view in a more powerful [Sourcegraph editor](https://about.sourcegraph.com/).
 - [Vuejs Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Adds Vuejs debugging tools to Chrome Dev tools.
 - [What's New on GitHub](https://github.com/flawyte/whats-new-github) - Helps you see easily what happened on GitHub since your last visit.
+- [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Make any webpage feel like an artboard.
 
 ## General
 
