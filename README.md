@@ -73,7 +73,6 @@
 - [Video Speed Controller](https://github.com/igrigorik/videospeed) - HTML5 video speed controller.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Adds powerful vim keybindings to Chrome. Navigating pages with hjkl, clicking on links from your keyboard and a lot more.
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Can identify the technologies that were used to build a particular website you are viewing.
-- [Wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj) - Wiki UI refinement (less noise and focus on content + night mode).
 
 ---
 
