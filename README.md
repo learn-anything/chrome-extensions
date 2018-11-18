@@ -73,6 +73,7 @@
 - [Video Speed Controller](https://github.com/igrigorik/videospeed) - HTML5 video speed controller.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Adds powerful vim keybindings to Chrome. Navigating pages with hjkl, clicking on links from your keyboard and a lot more.
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Can identify the technologies that were used to build a particular website you are viewing.
+- [Dark Reader](https://github.com/darkreader/darkreader) - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
 
 ---
 
