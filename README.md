@@ -51,6 +51,8 @@
 - [Google Search Navigator](https://chrome.google.com/webstore/detail/google-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek) - Adds keyboard shortcuts to Google Search.
 - [Hckr news](https://chrome.google.com/webstore/detail/hckr-news/mnlaodleonmmfkdhfofamacceeikgecp) - Adds a few features to both Hacker News and Hckr news.
 - [HTTPS everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - Encrypts you communication with many major websites thus making browsing more secure.
+- [KeePass Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm) - adds readonly KeePass functionality to your browser and does not require KeePass to be installed.  
+- [KeePass Tusk](https://github.com/suBDavis/Tusk) - KeePass-compatible browser extension for filling passwords.  
 - [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - Open, copy or bookmark multiple links at the same time.
 - [NooBoss](https://chrome.google.com/webstore/detail/nooboss/aajodjghehmlpahhboidcpfjcncmcklf) - Powerful Extensions Manager and Userscript Manager with many unique features.
 - [NooBoss](https://github.com/AInoob/NooBoss) - Powerful Extensions Manager and Userscript Manager with many unique features.
@@ -72,6 +74,8 @@
 - [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) - Speed up, slow down, advance and rewind any HTML5 video with quick shortcuts.
 - [Video Speed Controller](https://github.com/igrigorik/videospeed) - HTML5 video speed controller.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Adds powerful vim keybindings to Chrome. Navigating pages with hjkl, clicking on links from your keyboard and a lot more.
+- [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) - Provides userscript support for browsers.
+- [Violentmonkey](https://github.com/violentmonkey/violentmonkey) - Provides userscripts support for browsers.
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Can identify the technologies that were used to build a particular website you are viewing.
 
 ---
