@@ -30,6 +30,7 @@
 - [Vuejs Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Adds Vuejs debugging tools to Chrome Dev tools.
 - [What's New on GitHub](https://github.com/flawyte/whats-new-github) - Helps you see easily what happened on GitHub since your last visit.
 - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Make any webpage feel like an artboard.
+- [Lovely forks](https://github.com/musically-ut/lovely-forks) - Show notable forks of GitHub repositories under their names.
 
 ## General
 
