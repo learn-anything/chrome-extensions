@@ -31,6 +31,7 @@
 - [What's New on GitHub](https://github.com/flawyte/whats-new-github) - Helps you see easily what happened on GitHub since your last visit.
 - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Make any webpage feel like an artboard.
 - [Lovely forks](https://github.com/musically-ut/lovely-forks) - Show notable forks of GitHub repositories under their names.
+- [WhatRun](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - Discover what runs a website.
 
 ## General
 
