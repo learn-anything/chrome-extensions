@@ -30,6 +30,7 @@
 
 - [1Password extension](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) - Extends the 1Password app.
 - [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/).
+- [Bookmark Tweet to Browser](https://chrome.google.com/webstore/detail/bookmark-tweet-to-browser/fcohgfilngajddgokkckbpfkpmojoejf) - Bookmark tweet to browser bookmark directly from timeline using embedded button.
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Most comprehensive paywall bypasser on the internet. Bypass paywall of many news sites.
 - [Close Inactive Tabs](https://chrome.google.com/webstore/detail/close-inactive-tabs/ljigdlkhdinjbdmhdfmoglfcegnnkill) - Close inactive tabs in the current window.
 - [Cookie AutoDelete](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - Control your cookies! Auto-delete unused cookies from your closed tabs while keeping the ones you want.
