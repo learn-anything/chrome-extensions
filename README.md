@@ -11,6 +11,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) - Adds autocomplete for GitHub's search bar.
 - [Chrome Dev Tools Dark Theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Simply adds night theme to Chrome dev tools.
+- [Daily](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied_) — Replaces your new tab with curated latest dev articles. 
 - [DevTools Theme: Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - Highly customized dark theme for Devtools.
 - [JSON formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
