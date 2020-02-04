@@ -11,7 +11,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) - Adds autocomplete for GitHub's search bar.
 - [Chrome Dev Tools Dark Theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Simply adds night theme to Chrome dev tools.
-- [Daily](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied) — Replaces your new tab with curated latest dev articles. 
+- [Daily](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied) — Replaces your new tab with curated latest dev articles.
 - [DevTools Theme: Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - Highly customized dark theme for Devtools.
 - [JSON formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
@@ -28,6 +28,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Make any webpage feel like an artboard.
 - [Lovely forks](https://github.com/musically-ut/lovely-forks) - Show notable forks of GitHub repositories under their names.
 - [WhatRun](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - Discover what runs a website.
+- [PR Monitor](https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng) - Browser extension to keep track of incoming and outgoing PRs. ([Code](https://github.com/fwouts/prmonitor))
 
 ## General
 
