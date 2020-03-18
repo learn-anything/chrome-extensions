@@ -34,6 +34,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## General
 
 - [Tabli](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi) - Simple, powerful tab manager.
+- [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [1Password extension](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) - Extends the 1Password app.
 - [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/).
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Most comprehensive paywall bypasser on the internet. Bypass paywall of many news sites.
