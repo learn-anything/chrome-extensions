@@ -43,6 +43,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh?hl=en) - Vim-like bindings.
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Enables Dark Mode on websites like Facebook, Medium, Twitter, Google Maps and GitHub.
 - [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
+- [Pinboard](https://github.com/richardkall/pinboard-pro-chrome-extension) - Google Chrome extension for Pinboard.in.
 - [Decentraleyes](https://github.com/Synzvato/decentraleyes) - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)).
 - [Empty New Tab Page (Black)](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp) - Change new tab to open empty black page instead of default top sites.
 - [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij) - Change new tab to open empty page instead of default top sites.
