@@ -46,6 +46,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Figma Figjets Panel](https://chrome.google.com/webstore/detail/figma-figjets-panel/diljoblapaochhcgfonabkjihknfmllk) - Plugins Panel for Figma.
 - [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) - Get things done offline with the Google Docs family of products.
 - [Google Search Navigator](https://chrome.google.com/webstore/detail/google-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek) - Adds keyboard shortcuts to Google Search.
+- [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - Organize your Gmail labels as tabs.
 - [Hckr news](https://chrome.google.com/webstore/detail/hckr-news/mnlaodleonmmfkdhfofamacceeikgecp) - Adds a few features to both Hacker News and Hckr news.
 - [HTTPS everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - Encrypts you communication with many major websites thus making browsing more secure.
 - [KeePass Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm) - Adds readonly KeePass functionality to your browser and does not require KeePass to be installed.
