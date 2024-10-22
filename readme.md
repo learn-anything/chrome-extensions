@@ -26,6 +26,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Lovely forks](https://github.com/musically-ut/lovely-forks) - Show notable forks of GitHub repositories under their names.
 - [WhatRun](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - Discover what runs a website.
 - [PR Monitor](https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng) - Browser extension to keep track of incoming and outgoing PRs. ([Code](https://github.com/fwouts/prmonitor))
+- [Chroma Palette 🎨](https://chromewebstore.google.com/detail/chroma-palette-%F0%9F%8E%A8/miokoikjlpbhhfepkneagdjmgakendep) - Chrome extension to extract, pick and manage the dominant color palette from the visible area of any webpage or pick and manage specific color palettes using an uploaded image. ([https://chromapalette.in/](https://chromapalette.in/))
 
 ## General
 
